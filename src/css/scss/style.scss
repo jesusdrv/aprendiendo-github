@@ -1,0 +1,33 @@
+* {
+    &,
+    &::before,
+    &::after {
+        margin: 0.4rem;       
+        padding: 0.4rem;      
+        box-sizing: border-box; 
+    }
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+} 
+
+.firstP {
+    text-align: center;    
+}
+
+.section {
+    margin: 2rem;
+}
